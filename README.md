@@ -3,6 +3,8 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+## THis is tutorial for ruby on rails, for CSCI 3911
+
 Things you may want to cover:
 
 * Ruby version
